@@ -1,3 +1,3 @@
-name = input("Your ame? ").strip()
+name = input("Your name? ").strip()
 
 print("Hello,", name)
