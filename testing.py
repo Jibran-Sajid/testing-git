@@ -1,3 +1,4 @@
 name = input("Your name? ").strip()
+house = input("Your house? ").strip()
 
-print("Hello,", name)
+print(f"Hello, {name} from {house}")
